@@ -1,1 +1,1 @@
-Readme file for project AirBnB by John Chizas Nkhata
+Readme file for project AirBnB by John Chizaso Nkhata
